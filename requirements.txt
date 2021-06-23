@@ -1,0 +1,16 @@
+pip3 install tkinter
+pip3 install pandas
+pip3 install urllib.parse
+pip3 install ipaddress
+pip3 install re
+pip3 install clipboard
+
+pip3 install bs4
+pip3 install whois
+pip3 install urllib
+pip3 install urllib.request
+pip3 install datetime
+pip3 install requests
+
+pip3 install scikit-learn==0.22.2.post1
+pip3 install xgboost==0.90
